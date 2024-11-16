@@ -1,0 +1,2 @@
+peewee==3.17.8
+pysqlite3==3.47.0
